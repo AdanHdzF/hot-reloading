@@ -1,0 +1,6 @@
+.dockerignore
+
+notas.txt
+
+node_modules/
+Dockerfile
