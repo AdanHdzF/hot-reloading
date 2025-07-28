@@ -3,3 +3,6 @@ node_modules/
 Dockerfile.prod
 
 notas.txt
+
+*.sh
+
